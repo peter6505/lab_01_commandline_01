@@ -225,7 +225,7 @@ mkdir aardvark
 
 What is the modified date of the aardvark directory?
 ----------
-
+19:59
 
 
 ==========
@@ -237,7 +237,7 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
-
+-p
 
 
 ==========
@@ -271,13 +271,13 @@ pwd
 26. What flag do I pass to ls to print out all files?
 ----------
 
-
+-a 
 
 ==========
 27. What's the shortcut for home directory?
 ----------
 
-
+cd ~ 
 
 ==========
 28. What's a pathname?
@@ -289,7 +289,7 @@ it is a name to a folder
 29. What's a directory?
 ----------
 
-
+a location for storing files
 
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
