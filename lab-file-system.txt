@@ -294,3 +294,4 @@ a location for storing files
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+/User/student/downloads
