@@ -258,14 +258,14 @@ What command did you use?
 ==========
 24. What command is used to delete empty directories?
 ----------
-
+rmdir
 
 
 ==========
 25. What command is used to print out your current working directory?
 ----------
 
-
+pwd
 
 ==========
 26. What flag do I pass to ls to print out all files?
@@ -282,7 +282,7 @@ What command did you use?
 ==========
 28. What's a pathname?
 ----------
-
+it is a name to a folder
 
 
 ==========
